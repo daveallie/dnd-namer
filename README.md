@@ -6,7 +6,7 @@ DnD Namer is a random item and Heroku-ish name generator that uses D&D classes a
 
 Add this line to your application's Gemfile:
 
-    gem 'dnd-namer', :git => 'https://github.com/daveallie/dnd-namer.git', :tag => '0.0.1'
+    gem 'dnd-namer'
 
 And then execute:
 
